@@ -22,3 +22,24 @@ h4
   color: rgb(223, 26, 26);
   background-color: rgb(15, 255, 115);
 }
+.text-green {
+  background-color: chocolate;
+  color: white;
+}
+.text-green{
+  background-color:white;
+  color: green;
+}
+.text-pink
+{
+  background-color: white;
+  color: pink;
+}
+.text-red {
+  background-color: white;
+  color: red;
+}
+.text-purple{
+  background-color: white;
+  color: purple;
+}
