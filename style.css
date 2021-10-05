@@ -1,0 +1,24 @@
+h1 {
+  color: crimson;
+  background-color: rgb(160, 160, 196);
+}
+strong
+{
+color: darkcyan;
+background-color: darkmagenta;
+}
+small
+{
+  color: rgb(197, 127, 127);
+  background-color: rgb(72, 72, 214);
+}
+h4
+{
+  color: rgb(51, 34, 11);
+  background-color: rgb(153, 224, 82);
+}
+p
+{
+  color: rgb(223, 26, 26);
+  background-color: rgb(15, 255, 115);
+}
